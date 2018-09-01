@@ -1,0 +1,27 @@
+iOS
+PlayerPath?
+/Users/jacobpriddy/Desktop/NatGeoProjects/xr-mars/development/UnityApp/AssetBundles/iOS/mars_scenes
+SceneListBegin?
+Assets/Project/Scenes/MarsStartScene.unity
+SceneListEnd?
+728e7cc53c9e800273c3460b0ff9428a Assembly-CSharp.dll:com.natgeo.xr.TextureTilingController
+23fe0dece31457359fc0dd848034116d Assembly-CSharp.dll:com.natgeo.xr.XRHookLoaderTrigger
+da2091a04d360891450faf16cdf621f1 UnityEngine.UI.dll:UnityEngine.UI.Button
+4dab454d48292e052b30128ba245af73 UnityEngine.UI.dll:UnityEngine.UI.CanvasScaler
+7d08cf478d404d19c14d6d629e064dfa UnityEngine.UI.dll:UnityEngine.EventSystems.EventSystem
+b7a6160ea680d8533f3b8d2ed15414bb UnityEngine.UI.dll:UnityEngine.UI.GraphicRaycaster
+214d6361c4053676872ea585f619a1ce UnityEngine.UI.dll:UnityEngine.UI.Image
+a44114bd4fa541174f78b4bb92bacb48 UnityEngine.UI.dll:UnityEngine.EventSystems.StandaloneInputModule
+95aa2fe98fed85f900d17b75383fa652 UnityEngine.UI.dll:UnityEngine.UI.Text
+316453be26169b50d3b946757c046f44 Assembly-CSharp.dll:.UnityARCameraManager
+a97745634b523349a1a8b9c7595e43f4 Assembly-CSharp.dll:com.natgeo.xr.ARKitPointCloudParticle
+5d833afd3b21c6340513dd9ded27c085 Assembly-CSharp.dll:com.natgeo.xr.ARKitPlanesController
+27fbf2e5000f36331cace6b28bd9f515 Assembly-CSharp.dll:UnityEngine.XR.iOS.UnityARVideo
+13d6cbe8aeed1858fea8d4ab50b8bee6 Assembly-CSharp.dll:com.natgeo.xr.ItemStageTrigger
+df232124b65dabf4ba010cf599994f57 Assembly-CSharp.dll:com.natgeo.xr.ProceduralPlane
+06d43e2c8df35a1f711270993073ed03 Assembly-CSharp.dll:com.natgeo.xr.FollowMainCameraTransform
+9e0fdab6852a0e044d84a23cdecc7db0 Assembly-CSharp.dll:com.natgeo.xr.ARKitCalibrationTarget
+244f34aa35dce0aade3000974762dd37 Assembly-CSharp.dll:com.natgeo.xr.ARKitCalibrationTrigger
+df11b3afed7aac7d97aa713e0733394b Assembly-CSharp.dll:com.natgeo.xr.StageSequenceHandler
+03597ad61a9087cc0e602bbc24bb6285 Assembly-CSharp.dll:com.natgeo.xr.iosHapticTrigger
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.UnityARCameraNearFar

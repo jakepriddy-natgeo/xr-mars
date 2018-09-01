@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 315139869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 14aab3268ce1cee56aa735ea89f6fcbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e68c858057443982f3b69c2636d97387
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Project/Meshes/98-mars-photorealistic-2k/Textures/Dust_2K.png
+- Assets/Project/Meshes/98-mars-photorealistic-2k/Textures/MarsRaise.anim
+- Assets/Project/Meshes/98-mars-photorealistic-2k/Materials/Bump_2K.mat
+- Assets/Project/Meshes/98-mars-photorealistic-2k/Materials/Clouds_2K.mat
+- Assets/Project/Meshes/98-mars-photorealistic-2k/Materials/Dust_2K.mat
+- Assets/Project/Meshes/98-mars-photorealistic-2k/Textures/Bump_2K.png
+- Assets/Project/Meshes/98-mars-photorealistic-2k/Textures/Diffuse_2K.png
+- Assets/Project/Meshes/98-mars-photorealistic-2k/Mars 2K.fbx
+- Assets/Project/Meshes/98-mars-photorealistic-2k/Textures/Rotate.anim
+- Assets/Project/Meshes/98-mars-photorealistic-2k/Textures/Clouds_2K.png
+- Assets/Project/Meshes/98-mars-photorealistic-2k/Textures/Mars 2K.controller
+- Assets/Project/Meshes/98-mars-photorealistic-2k/Supporting_Files/Resolution difference.png
+- Assets/Project/Meshes/98-mars-photorealistic-2k/Materials/Diffuse_2K.mat
+- Assets/Project/Meshes/98-mars-photorealistic-2k/Mars 2K.obj
+Dependencies: []

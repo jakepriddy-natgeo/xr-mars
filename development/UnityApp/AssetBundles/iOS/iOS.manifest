@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 2374729645
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mars_assets
+      Dependencies: {}
+    Info_1:
+      Name: mars_scenes
+      Dependencies:
+        Dependency_0: mars_assets
